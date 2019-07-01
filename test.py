@@ -6,7 +6,7 @@ import tensorflow as tf
 import yolo.config as cfg
 from yolo.yolo_net import YOLONet
 from utils.timer import Timer
-
+hhh
 #检测的类Detector
 class Detector(object):
 
